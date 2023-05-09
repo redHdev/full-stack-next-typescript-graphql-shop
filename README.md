@@ -1,1 +1,1 @@
-# Full Stack Next Typescript Graphql Shop
+# Full Stack Next Typescript Graphql Shop  
