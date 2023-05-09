@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { TransitionGroup, CSSTransition } from 'react-transition-group'
 
 const AnimationsStyles = styled.span`
-  position: relative;
+  position: relative;  
   .count {
     display: block;
     position: relative;
