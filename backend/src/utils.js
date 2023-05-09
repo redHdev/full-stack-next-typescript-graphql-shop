@@ -6,7 +6,7 @@
 
 // Check if they have any of these:
 
-// ['PERMISSIONUPDATE', 'ADMIN']
+// ['PERMISSIONUPDATE', 'ADMIN']  
 
 function hasPermission(user, permissionsNeeded) {
   const matchedPermissions = user.permissions.filter(permissionTheyHave =>
