@@ -4,7 +4,7 @@ const Home = props => {
   return (
   <div>  
     <Items page={parseInt(props.query.page) || 1} />
-  </div>
+  </div>  
 )}
 
 export default Home
