@@ -1,4 +1,4 @@
-projects:
+projects:  
   app:
     schemaPath: "src/schema.graphql"
     extensions:
