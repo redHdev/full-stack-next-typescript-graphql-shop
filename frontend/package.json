@@ -1,6 +1,6 @@
 {
   "name": "full-stack-shop-frontend",
-  "version": "1.0.0",
+  "version": "1.0.0",  
   "description": "Full-Stack Shop! An example React, GraphQL, Next and Apollo",
   "main": "index.js",
   "scripts": {
